@@ -75,3 +75,8 @@ body {
     background-color: rgb(5, 43, 19);
     text-decoration: line-through;
 }
+
+@media screen anda (max-width: 800px;) {
+    body{
+    background:green;}
+}
